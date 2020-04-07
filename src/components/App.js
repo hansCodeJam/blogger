@@ -1,7 +1,6 @@
 import React from 'react';
-import faker from 'faker';
-import SingleFeed from './SingleFeed';
-import SingleCardRequest from './SingleCardRequest';
+// import faker from 'faker';
+
 
 class App extends Component{
     
