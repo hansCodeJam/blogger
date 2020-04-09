@@ -1,18 +1,11 @@
 import React from 'react';
-// import faker from 'faker';
+import Blogs from './Blogs';
 
 
-class App extends Component{
-    
-//    render(){
-//        return (
-           
-//        )
-//    } 
-
+const App = () => {
+    return <div>
+        <Blogs />
+    </div>
 }
-
-
-
 
 export default App;
