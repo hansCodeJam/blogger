@@ -6,4 +6,4 @@ import App from './components/App';
 import Form from './components/Form';
 
 
-ReactDOM.render(<Form />, document.getElementById('root'));
+ReactDOM.render(<App />, document.getElementById('root'));
